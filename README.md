@@ -18,3 +18,6 @@ This is a Repository for Arsh Goyal 6 Companies 30 Days Challenge.
 - [x] Number of People Aware of a Secret
 - [x] Run Length Encoding
 - [x] Number of Ways to Reach a Position After Exactly k Steps
+
+## Company 2 - Goldman Sachs
+
