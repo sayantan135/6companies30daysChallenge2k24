@@ -20,4 +20,9 @@ This is a Repository for Arsh Goyal 6 Companies 30 Days Challenge.
 - [x] Number of Ways to Reach a Position After Exactly k Steps
 
 ## Company 2 - Goldman Sachs
-
+- [x] Minimize the Maximum of Two Arrays
+- [x] High-Access Employees
+- [x] Query kth Smallest Trimmed Number
+- [x] Combination Sum III
+- [x] Random Flip Matrix
+- [x] Letter Co
